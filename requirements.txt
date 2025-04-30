@@ -1,2 +1,4 @@
 pyautogui
-pygetwindow 
+pygetwindow
+Pillow
+img2pdf 
